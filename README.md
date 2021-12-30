@@ -11,8 +11,8 @@ This repo will be about implementation of supervised learning essentials on Kagg
 ## SMS Spam Detection [dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 `text classification`, `CountVectorizer`, `model selection`, `hyperparameter optimization` , `GridSearchCV`, `RandomizedSearchCV`, `pipeline`, `ColumnTransformer`
 
-## Happy DB
-
+## Happy DB [dataset](https://www.kaggle.com/ritresearch/happydb)
+`Naive Bayes`, `BernoulliNB`, `MultinomialNB`, `Logistic Regression`
 
 ## Telecom Churn Detection
 
