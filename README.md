@@ -9,7 +9,7 @@ This repo will be about implementation of supervised learning essentials on Kagg
 `K Nearest Neighbors (KNN)`, `Support Vector Machine (RBF SVM)`, `Exploratory Data Analysis (EDA)`, `column transformation`, `preprocessing`, `imputation`, `OneHotEncoder`, `OrdinalEncoder`, `StandardScaler`, `altair`
 
 ## SMS Spam Detection [dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
-`text data`, `CountVectorizer`, `model selection`, `hyperparameter optimization` , `GridSearchCV`, `RandomizedSearchCV`, `pipeline`, `ColumnTransformer`
+`text classification`, `CountVectorizer`, `model selection`, `hyperparameter optimization` , `GridSearchCV`, `RandomizedSearchCV`, `pipeline`, `ColumnTransformer`
 
 ## Happy DB
 
