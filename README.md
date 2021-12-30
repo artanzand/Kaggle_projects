@@ -1,8 +1,8 @@
 # Kaggle_projects
-This repo will be about implementation of supervised learning essentials on Kaggle datasets from simple models to ensemble models alongwith feature engineering and model selection. For this I will be using cleaned data acquired from Kaggle while walking you through my analysis in individual `.ipynb` files. Details about each dataset is provided in the notebook and below I will mention the machine learning techniques I will be progressing through.
+This repo will be about implementation of supervised learning essentials on Kaggle datasets from simple models to ensemble models alongwith feature engineering and model selection. For this I will be using cleaned data acquired from Kaggle while walking you through my analysis in individual `.ipynb` files. Details about each dataset is provided in the notebook and below I will mention the machine learning techniques I will be progressing through. As I progress in the project number, I will include the techniques from the earlier projects, and therefore, the last project would be my most complex project for this repo. I will not demonstrate any deep learning techniques in this repo.
 
-## Spotify
-
+## Spotify Song Attributes [dataset](https://www.kaggle.com/geomack/spotifyclassification/home)
+`Golden Rule`, `Decision Tree`, `data splitting`, `model building`, `hyperparameters`
 
 ## Adult Census
 
