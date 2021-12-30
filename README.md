@@ -3,10 +3,10 @@ This repo will be about implementation of supervised learning essentials on Kagg
 
 
 ## Spotify Song Attributes [dataset](https://www.kaggle.com/geomack/spotifyclassification/home)
-`Golden Rule`, `Decision Tree`, `data splitting`, `model building`, `hyperparameters`
+`Golden Rule`, `Decision Tree`, `data splitting`, `model building`, `hyperparameters`, `Dummy classification`, `cross validation`
 
 ## Adult Census
-
+`K Nearest Neighbors (KNN)`, `Support Vector Machine (SVM)`, `column transformation`, `preprocessing`, `imputation`, `OneHotEncoder`, `OrdinalEncoder`, `StandardScaler`
 
 ## SMS Spam Detection
 
