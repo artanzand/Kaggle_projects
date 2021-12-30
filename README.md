@@ -24,7 +24,10 @@ This repo will be about implementation of supervised learning essentials on Kagg
 
 
 # Usage
-Clone this repo, and navigate to the root of this repo in your terminal.
+Clone this repo, and navigate to the root of this repo in your terminal. 
+```
+conda env create --file env.yaml
+```
 
 Run the below script to download all files from Kaggle
 ```
