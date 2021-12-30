@@ -24,9 +24,10 @@ This repo will be about implementation of supervised learning essentials on Kagg
 
 
 # Usage
-Clone this repo, and navigate to the root of this repo in your terminal. 
+Clone this repo, and navigate to the root of this repo in your terminal. Install required packages and change your environment to the project environment by running the below command.
 ```
 conda env create --file env.yaml
+conda activate Kaggle_projects
 ```
 
 Run the below script to download all files from Kaggle
