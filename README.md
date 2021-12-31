@@ -11,14 +11,14 @@ This repo will be about implementation of supervised learning essentials on Kagg
 ## SMS Spam Detection [dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
 `text classification`, `CountVectorizer`, `model selection`, `hyperparameter optimization` , `GridSearchCV`, `RandomizedSearchCV`, `pipeline`, `ColumnTransformer`
 
-## Happy DB
+## Happy DB [dataset](https://www.kaggle.com/ritresearch/happydb)
+`Naive Bayes`, `BernoulliNB`, `MultinomialNB`, `Logistic Regression`
 
+## Churn in Telecom [dataset](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)
+`Random Forest`,`Ridge`, `confusion matrix`, `classification report`, `F1 score`, `Recall`, `Precision`, `Area Under Curve (AUC)`, `PR curve`, `ROC curve`, `ROC AUC score`, `RMSE`, `MAPE score`, `make_scorer`
 
-## Telecom Churn Detection
-
-
-## Disaster Tweets
-
+## Disaster Tweets [dataset](https://www.kaggle.com/vstepanenko/disaster-tweets)
+`Polynomial features`, `RFECV`, `Sequential Feature Selector`, `Forward Selection`, `Backward Selection`, `Recursive Selection`
 
 ## Spotify Features
 
