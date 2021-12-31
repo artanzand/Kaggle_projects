@@ -18,10 +18,10 @@ This repo will be about implementation of supervised learning essentials on Kagg
 `Random Forest`,`Ridge`, `confusion matrix`, `classification report`, `F1 score`, `Recall`, `Precision`, `Area Under Curve (AUC)`, `PR curve`, `ROC curve`, `ROC AUC score`, `RMSE`, `MAPE score`, `make_scorer`
 
 ## Disaster Tweets [dataset](https://www.kaggle.com/vstepanenko/disaster-tweets)
-`Polynomial features`, `RFECV`, `Sequential Feature Selector`, `Forward Selection`, `Backward Selection`, `Recursive Selection`
+`Polynomial features`, `RidgeCV`, `RFECV`, `Sequential Feature Selector`, `Forward Selection`, `Backward Selection`, `Recursive Selection`
 
-## Spotify Features
-
+## Spotify Tracks DB [dataset](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db)
+`SHAP`, `feature_importance_`, `Ensembles`, `Voting`, `Stacking`, `Random Forest`, `Gradient Boosted Trees`, `XGBoost`, `LightGBM`, `CatBoost`,
 
 # Usage
 Clone this repo, and navigate to the root of this repo in your terminal. Install required packages and change your environment to the project environment by running the below command.
