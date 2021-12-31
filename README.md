@@ -23,17 +23,29 @@ This repo will be about implementation of supervised learning essentials on Kagg
 ## Spotify Tracks DB [dataset](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db)
 `SHAP`, `feature_importances_`, `Ensembles`, `Voting model`, `Stacking model`, `Random Forest`, `Gradient Boosted Trees`, `XGBoost`, `LightGBM`, `CatBoost`,
 
-# Usage
-Clone this repo, and navigate to the root of this repo in your terminal. Install required packages and change your environment to the project environment by running the below command.
+# To use this repo
+Clone this Github repository, install the dependencies, and run the 
+following commands at the command line/terminal from the root directory of the project:
+
 ```
 conda env create --file env.yaml
 conda activate Kaggle_projects
 ```
+## Setting up Kaggle API
+To use the Kaggle API, sign up for a Kaggle account at https://www.kaggle.com. Then go to the 'Account' tab of your user profile (https://www.kaggle.com/<username>/account) and select 'Create API Token'. This will trigger the download of kaggle.json, a file containing your API credentials. Place this file in the location `~/.kaggle/kaggle.json`. I have already included the `kaggle` package in the repo environment, and running the below script should download the required files. 
 
-Run the below script to download all files from Kaggle
+## To download the csv files
+Run the following commands at the command line/terminal from the root directory of the project:
+```
+make all
 ```
 
+To reset the repo to the original state, and delete all downloaded files from Kaggle, run the following commands at the command line/terminal from
+the root directory of the project:
 ```
+make clean
+```
+
 You can now run each individual notebook file.
 
 
