@@ -21,7 +21,7 @@ This repo will be about implementation of supervised learning essentials on Kagg
 `Polynomial features`, `RidgeCV`, `RFECV`, `Sequential Feature Selector`, `Forward Selection`, `Backward Selection`, `Recursive Selection`
 
 ## Spotify Tracks DB [dataset](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db)
-`SHAP`, `feature_importances_`, `Ensembles`, `Voting`, `Stacking`, `Random Forest`, `Gradient Boosted Trees`, `XGBoost`, `LightGBM`, `CatBoost`,
+`SHAP`, `feature_importances_`, `Ensembles`, `Voting model`, `Stacking model`, `Random Forest`, `Gradient Boosted Trees`, `XGBoost`, `LightGBM`, `CatBoost`,
 
 # Usage
 Clone this repo, and navigate to the root of this repo in your terminal. Install required packages and change your environment to the project environment by running the below command.
