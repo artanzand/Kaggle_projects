@@ -51,7 +51,7 @@ make clean
 You can now run each individual notebook file.
 
 
-### To contribute to the repository:
+# To contribute to the repository:
 1. Fork the repository.
 2. Add the implementation of the algorithm with a clearly defined filename for the script or the notebook.
 3. Test the implementation thoroughly and make sure that it works with some dataset.
