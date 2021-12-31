@@ -14,8 +14,8 @@ This repo will be about implementation of supervised learning essentials on Kagg
 ## Happy DB [dataset](https://www.kaggle.com/ritresearch/happydb)
 `Naive Bayes`, `BernoulliNB`, `MultinomialNB`, `Logistic Regression`
 
-## Telecom Churn Detection
-
+## Churn in Telecom [dataset](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)
+`Random Forest`, `confusion matrix`, `classification report`, `F1 score`, `Recall`, `Precision`, `Ridge`, `Area Under Curve (AUC)`, `RMSE`, `MAPE score`, `make_scorer`
 
 ## Disaster Tweets
 
