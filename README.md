@@ -15,10 +15,10 @@ This repo will be about implementation of supervised learning essentials on Kagg
 `Naive Bayes`, `BernoulliNB`, `MultinomialNB`, `Logistic Regression`
 
 ## Churn in Telecom [dataset](https://www.kaggle.com/becksddf/churn-in-telecoms-dataset)
-`Random Forest`, `confusion matrix`, `classification report`, `F1 score`, `Recall`, `Precision`, `Ridge`, `Area Under Curve (AUC)`, `RMSE`, `MAPE score`, `make_scorer`
+`Random Forest`,`Ridge`, `confusion matrix`, `classification report`, `F1 score`, `Recall`, `Precision`, `Area Under Curve (AUC)`, `PR curve`, `ROC curve`, `ROC AUC score`, `RMSE`, `MAPE score`, `make_scorer`
 
-## Disaster Tweets
-
+## Disaster Tweets [dataset](https://www.kaggle.com/vstepanenko/disaster-tweets)
+`Polynomial features`, `RFECV`, `Sequential Feature Selector`, `Forward Selection`, `Backward Selection`, `Recursive Selection`
 
 ## Spotify Features
 
