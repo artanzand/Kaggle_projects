@@ -25,7 +25,7 @@ Also included is the link to two other Kaggle projects, one for a [Regression](h
 ## Spotify Tracks DB [dataset](https://www.kaggle.com/zaheenhamidani/ultimate-spotify-tracks-db)
 `SHAP`, `feature_importances_`, `Ensembles`, `Voting model`, `Stacking model`, `Random Forest`, `Gradient Boosted Trees`, `XGBoost`, `LightGBM`, `CatBoost`,
 
-## Credit Card Default [project](https://github.com/artanzand/CreditCard-default_Kaggle)
+## Credit Card Default - [Classification Project](https://github.com/artanzand/CreditCard-default_Kaggle)
 `ScikitLearn`, `pandas`, `Altair`, `SHAP`, `eli5`, `VotingClassifier`, `StackingClassifier`, `CatBoostClassifier`, `LGBMClassifier`, `Random Forest`, `Lasso`, `Support Vector Machine (SVC)`, `CountVectorizer`, `RandomizedSearchCV`, `RFECV`, `cross_validate`, `pipeline`, `column_transformer`, `SelectFromModel`, `OneHotEncoder`, `StandardScaler`, `classification_report`, `recall_score`, `f1_score`, `precision_score`, `accuracy_score`
 
 ## Airbnb NYC - [Regression Project](https://github.com/artanzand/Airbnb-NYC_Kaggle)
